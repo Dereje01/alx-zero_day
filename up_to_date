@@ -1,0 +1,5 @@
+git status 
+git add .
+git status 
+git commit -m "How to up to date in git"
+git push
